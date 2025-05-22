@@ -1,0 +1,49 @@
+Added Component: Designator=J6(XT90_PW-M)
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C3040689"; VariantName = "[No Variations]"
+Added Component: Designator=J7(XT90_PW-M)
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C3040689"; VariantName = "[No Variations]"
+Added Component: Designator=U1(ACS758)
+Added Pin To Net: NetName=BAT- Pin=J6-N
+Added Pin To Net: NetName=IP+ Pin=J6-P
+Added Pin To Net: NetName=BAT- Pin=J7-N
+Added Pin To Net: NetName=LOAD+ Pin=J7-P
+Added Pin To Net: NetName=+5 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetR11_1 Pin=U1-3
+Added Pin To Net: NetName=IP+ Pin=U1-4_1
+Added Pin To Net: NetName=IP+ Pin=U1-4_2
+Added Pin To Net: NetName=IP+ Pin=U1-4_3
+Added Pin To Net: NetName=IP+ Pin=U1-4_4
+Added Pin To Net: NetName=IP+ Pin=U1-4_5
+Added Pin To Net: NetName=IP+ Pin=U1-4_6
+Added Pin To Net: NetName=IP+ Pin=U1-4_7
+Added Pin To Net: NetName=IP+ Pin=U1-4_8
+Added Pin To Net: NetName=IP+ Pin=U1-4_9
+Added Pin To Net: NetName=IP+ Pin=U1-4_10
+Added Pin To Net: NetName=IP+ Pin=U1-4_11
+Added Pin To Net: NetName=IP+ Pin=U1-4_12
+Added Pin To Net: NetName=IP+ Pin=U1-4_13
+Added Pin To Net: NetName=IP+ Pin=U1-4_14
+Added Pin To Net: NetName=IP+ Pin=U1-4_15
+Added Pin To Net: NetName=IP+ Pin=U1-4_16
+Added Pin To Net: NetName=IP+ Pin=U1-4
+Added Pin To Net: NetName=IP- Pin=U1-5_1
+Added Pin To Net: NetName=IP- Pin=U1-5_2
+Added Pin To Net: NetName=IP- Pin=U1-5_3
+Added Pin To Net: NetName=IP- Pin=U1-5_4
+Added Pin To Net: NetName=IP- Pin=U1-5_5
+Added Pin To Net: NetName=IP- Pin=U1-5_6
+Added Pin To Net: NetName=IP- Pin=U1-5_7
+Added Pin To Net: NetName=IP- Pin=U1-5_8
+Added Pin To Net: NetName=IP- Pin=U1-5_9
+Added Pin To Net: NetName=IP- Pin=U1-5_10
+Added Pin To Net: NetName=IP- Pin=U1-5_11
+Added Pin To Net: NetName=IP- Pin=U1-5_12
+Added Pin To Net: NetName=IP- Pin=U1-5_13
+Added Pin To Net: NetName=IP- Pin=U1-5_14
+Added Pin To Net: NetName=IP- Pin=U1-5_15
+Added Pin To Net: NetName=IP- Pin=U1-5_16
+Added Pin To Net: NetName=IP- Pin=U1-5
+Added Member To Class: ClassName=PMOS Member=Component J6 SMT XT90 CONNECTOR
+Added Member To Class: ClassName=PMOS Member=Component J7 SMT XT90 CONNECTOR
+Added Member To Class: ClassName=PMOS Member=Component U1 ACS758
