@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=thermoCS2 Pin=IC2-11
+Removed Pin From Net: NetName=thermoCS1 Pin=IC2-12
+Added Pin To Net: NetName=thermoCS1 Pin=IC2-11
+Added Pin To Net: NetName=thermoCS2 Pin=IC2-12
+Added Member To Class: ClassName=Main Member=Component J2 B2B-XH-A(LF)(SN)

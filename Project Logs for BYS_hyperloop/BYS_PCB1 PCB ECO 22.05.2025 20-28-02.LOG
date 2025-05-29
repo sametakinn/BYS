@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=thermoCS3 Pin=IC2-10
+Removed Pin From Net: NetName=thermoCS2 Pin=IC2-12
+Added Pin To Net: NetName=thermoCS2 Pin=IC2-10
+Added Pin To Net: NetName=thermoCS3 Pin=IC2-12

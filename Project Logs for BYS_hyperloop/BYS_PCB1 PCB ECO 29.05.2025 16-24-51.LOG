@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=+5 Pin=R1-2
+Removed Member From Class: ClassName=Main Member=D2
+Removed Member From Class: ClassName=Main Member=R1
+Added Component: Designator=J?(HARWIN M20-7830845)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://cdn.harwin.com/pdfs/Harwin_PC_Connectors_M20.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/harwin-inc/M20-7830842/3727786"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "Flash"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Length - Post"; Value = "0.118" (3.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Female Socket"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Push-Pull"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "21.09.2022 19:06:04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Harwin Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated Stacking Heights"; Value = "11.04mm, 12.63mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "M20-7830842"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing - Mating"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "M20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Board to Board or Cable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "952-1819-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "0.335" (8.51mm)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-16
+Added Pin To Net: NetName=3.3V Pin=J?-10
+Added Pin To Net: NetName=3.3V Pin=IC2-16
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=J?-1
+Added Pin To Net: NetName=5V Pin=R10-1
+Added Pin To Net: NetName=5V Pin=IC2-26
+Added Net: Name=5V
+Added Pin To Net: NetName=A4 Pin=J?-12
+Added Pin To Net: NetName=A4 Pin=IC2-21
+Added Net: Name=A4
+Added Pin To Net: NetName=A6 Pin=J?-13
+Added Pin To Net: NetName=A6 Pin=IC2-19
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=J?-14
+Added Pin To Net: NetName=A7 Pin=IC2-18
+Added Net: Name=A7
+Added Pin To Net: NetName=D2 Pin=J?-5
+Added Pin To Net: NetName=D2 Pin=IC2-4
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=J?-6
+Added Pin To Net: NetName=D3 Pin=IC2-5
+Added Net: Name=D3
+Added Pin To Net: NetName=D6 Pin=J?-7
+Added Pin To Net: NetName=D6 Pin=IC2-8
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=J?-8
+Added Pin To Net: NetName=D7 Pin=IC2-9
+Added Net: Name=D7
+Added Pin To Net: NetName=D11 Pin=J?-15
+Added Pin To Net: NetName=D11 Pin=IC2-13
+Added Net: Name=D11
+Added Pin To Net: NetName=REF Pin=J?-11
+Added Pin To Net: NetName=REF Pin=IC2-17
+Added Net: Name=REF
+Added Pin To Net: NetName=RESET Pin=J?-4
+Added Pin To Net: NetName=RESET Pin=IC2-2
+Added Net: Name=RESET
+Added Pin To Net: NetName=RXD Pin=J?-3
+Added Pin To Net: NetName=RXD Pin=IC2-1
+Added Net: Name=RXD
+Added Pin To Net: NetName=TXD Pin=J?-2
+Added Pin To Net: NetName=TXD Pin=IC2-0
+Added Net: Name=TXD
+Added Member To Class: ClassName=Main Member=Component J? M20-7830842

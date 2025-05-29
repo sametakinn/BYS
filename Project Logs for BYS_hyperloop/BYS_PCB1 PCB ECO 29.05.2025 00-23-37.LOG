@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=J6-N
+Removed Pin From Net: NetName=GND Pin=J7-N
+Added Pin To Net: NetName=BAT- Pin=J6-N
+Added Pin To Net: NetName=BAT- Pin=J7-N
+Added Net: Name=BAT-

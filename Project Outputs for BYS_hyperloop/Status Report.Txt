@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [BYS_hyperloop.PrjPcb]
+   Generated File[Pick Place for BYS_PCB1.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:25:22 On 29.05.2025
