@@ -2,10 +2,8 @@
 FileName = BYS_PCB1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Paste
-      File : BYS_PCB1.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Layer
+      File : BYS_PCB1.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -13,6 +11,23 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
     D79
 *************************************************************
 
@@ -45,6 +60,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Overlay
+      File : BYS_PCB1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : BYS_PCB1.GBS
 
@@ -72,6 +103,61 @@ Used DCodes :
     D59
     D60
     D80
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : BYS_PCB1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : BYS_PCB1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D13
 *************************************************************
 
 *************************************************************
@@ -120,35 +206,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : BYS_PCB1.GBO
+Generating : Bottom Paste
+      File : BYS_PCB1.GBP
 
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : BYS_PCB1.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : BYS_PCB1.GBL
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -156,68 +217,7 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
     D79
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : BYS_PCB1.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
 *************************************************************
 
 *************************************************************
