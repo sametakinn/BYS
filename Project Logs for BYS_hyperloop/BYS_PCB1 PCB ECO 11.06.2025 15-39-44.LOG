@@ -1,0 +1,5 @@
+Added Component: Designator=J?(XT90_PW-M)
+Added Pin To Net: NetName=BAT- Pin=J?-N
+Added Pin To Net: NetName=IP+ Pin=J?-P
+Added Pin To Net: NetName=LOAD+ Pin=J?-P
+Added Member To Class: ClassName=PMOS Member=Component J? SMT XT90 CONNECTOR

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=LOAD+ Pin=J?-P
+Removed Member From Class: ClassName=PMOS Member=J?
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Added Component: Designator=J8(XT90_PW-M)
+Added Pin To Net: NetName=IP+ Pin=J7-P
+Added Pin To Net: NetName=BAT- Pin=J8-N
+Added Pin To Net: NetName=LOAD+ Pin=J8-P
+Added Member To Class: ClassName=PMOS Member=Component J7 SMT XT90 CONNECTOR
+Added Member To Class: ClassName=PMOS Member=Component J8 SMT XT90 CONNECTOR

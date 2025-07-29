@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Samet AKIN\Desktop\samet\altium_project\BYS_hyperloop\BYS_PCB1_V2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=bys_pcb1_v2.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=bys_pcb1_v2-rectholes.txt|DrillLayers=gtl,gbl

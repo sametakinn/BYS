@@ -1,10 +1,13 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [BYS_hyperloop.PrjPcb]
-   Generated File[Pick Place for BYS_PCB1.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BYS_hyperloop.PrjPcb]
+   Generated File[BYS_PCB1_V2.TXT]
+   Generated File[BYS_PCB1_V2-RectHoles.TXT]
+   Generated File[BYS_PCB1_V2.LDP]
+   Generated File[BYS_PCB1_V2.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 23:10:20 On 30.05.2025
+Finished Output Generation At 14:53:29 On 29.07.2025
